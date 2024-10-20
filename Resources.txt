@@ -1,0 +1,7 @@
+COMPETITION LINK: https://www.kaggle.com/competitions/spaceship-titanic/overview
+
+
+Online res:
+https://www.kaggle.com/competitions/spaceship-titanic/discussion/315987
+https://www.kaggle.com/code/yagolxuchen/titanic-spaceship-classification
+https://www.kaggle.com/code/yagolxuchen/spaceship-titanic-starter-notebook-in-japanese/edit#8.-Model-selection
